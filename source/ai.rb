@@ -11,6 +11,8 @@ class Ai
   end
 
   def choose_square
-    # logic for ai to choose square
+    
+    row =
+    column = 
   end
 end
